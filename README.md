@@ -20,7 +20,11 @@ __Na du kannst relativ _einfach_ ein Samsung Android Smartphone gewinnen.__
 Hier gibt es keine richtig oder Falsch, wir suchen deine Interpretationen, deine Ideen, hinweise und so weiter. Spiel ein bissichen mit dem Skript und tobe dich aus.
 
 
-* Der Teilnehmer mit den Verbesserungen/Empfehlungen für das Skript gewinnt
+* Der Teilnehmer mit den meisten Verbesserungen/Empfehlungen für das Skript gewinnt
 
 
 * Wenn du das Skript als Docker entrypoint behandelst und ein paar dazu passende extra Ideen hast, bekommst du extra Punkte ;)
+
+## Teilnahme
+
+Deine Lösung kannst du einfach an challenge@x-cellent.com schicken.
